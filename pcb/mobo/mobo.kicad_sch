@@ -7354,7 +7354,7 @@
     (property "Value" "470uF" (at 158.369 147.3705 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7" (at 156.21 146.05 0)
+    (property "Footprint" "Capacitor_SMD:C_Elec_8x10.2" (at 156.21 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 156.21 146.05 0)
